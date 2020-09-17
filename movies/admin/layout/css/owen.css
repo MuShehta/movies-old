@@ -1,0 +1,49 @@
+* {
+    box-sizing: border-box;
+}
+
+
+/* start login */
+
+form {
+    width: 300px;
+    margin: 100px auto;
+}
+
+/* end login */
+
+
+
+
+/* start item */
+
+.item {
+    
+    background: #DDD;
+    padding: 10px 0;
+    font-size: 20px;
+    color: #FFF;
+    border-radius: 7px;
+    text-align: center;
+    margin: 90px auto;
+}
+.justify-content-md-center a{
+    text-decoration: none;
+    color: #FFF;
+}
+
+.item span {
+    font-size: 50px;
+
+}
+
+/* end Item */
+
+/* start table */
+
+h1 {
+    margin: 80px;
+    color: #979797;
+}
+
+/* end tablr */
